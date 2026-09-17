@@ -111,4 +111,4 @@ The project demonstrates the following Android concepts:
                             v                 v
                          Share          Check 75%
 
-<img width="185" height="416" alt="image" src="https://github.com/user-attachments/assets/4e13405d-2d35-4583-a626-abd2ded04852" />
+
