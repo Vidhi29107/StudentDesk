@@ -88,6 +88,12 @@ The project demonstrates the following Android concepts:
 - Input validation
 
 ---
+<img src="assets/Dashboard.png" width="200">
+<img src="assets/Timetable.png" width="200">
+<img src="assets/Assignments.png" width="200">
+<img src="assets/Attendance.png" width="200">
+<img src="assets/Upcoming_Exam.png" width="200">
+<img src="assets/Notes.png" width="200">
 
 ## 🔄 Application Flow
 
@@ -110,3 +116,5 @@ The project demonstrates the following Android concepts:
                             |                 |
                             v                 v
                          Share          Check 75%
+
+
